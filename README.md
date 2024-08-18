@@ -1,5 +1,3 @@
-# Project Title and Overview Section
-
 # Optimizing Urban Mobility Using LSTM and GRU Models
 
 ## Overview
