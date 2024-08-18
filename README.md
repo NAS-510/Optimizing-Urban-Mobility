@@ -48,4 +48,4 @@ The dataset used includes traffic volume data along with temporal and weather-re
 
 ## Dataset
 The dataset used in this project is the **Metro Interstate Traffic Volume** dataset, which is stored in the `/dataset` directory. 
-For more details about the dataset, refer to the relevant notebook or [Appendix C in the report].
+For more details about the dataset, refer to the relevant notebook or [Appendix C in the `DOCUMENTS/PDF/REPORT.pdf`].
